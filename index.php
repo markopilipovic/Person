@@ -32,4 +32,4 @@ class Person
 }
 
 $nikola = new Person();
-echo $nikola->insert('', 'Nikola', 'Ilic');
+$nikola->insert('', 'Nikola', 'Ilic');
